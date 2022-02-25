@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caveat to conventiclers being a letter from an English gentleman in Stockholme, to a person of quality in London relating, the manner of the devils appearance in the dutchy of Finland.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56378</idno>
+            <idno type="STC">Wing P45</idno>
+            <idno type="STC">ESTC R36625</idno>
+            <idno type="EEBO-CITATION">15746287</idno>
+            <idno type="OCLC">ocm 15746287</idno>
+            <idno type="VID">104604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1153:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caveat to conventiclers being a letter from an English gentleman in Stockholme, to a person of quality in London relating, the manner of the devils appearance in the dutchy of Finland.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCLXX [1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.P.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104604:1" rendition="simple:additions"/>
+            <p>A CAVEAT TO Conventiclers: BEING A Letter from an Engliſh Gentleman in <hi>STOCKHOLME,</hi> TO A Perſon of quality in <hi>LONDON:</hi> RELATING The Manner of the DEVILS appearance in the Dutchy of <hi>FINLAND.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCLXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104604:2"/>
+            <pb n="1" facs="tcp:104604:2"/>
+            <head>A CAVEAT TO CONVENTICLERS: BEING A Letter from an Engliſh Gentleman in <hi>STOCKHOLME,</hi> TO A Perſon of Quality in <hi>LONDON,</hi> &amp;c.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Am not a little amazed to finde it paſs without contradiction here, that the whole Dutchy of <hi>Finland</hi> is poſſeſt by the De<g ref="char:EOLhyphen"/>vil, and that he is now received and ac<g ref="char:EOLhyphen"/>knowledged by the people there, having made his publick entry upon the ſeventh of <hi>March</hi> laſt into the Town of <hi>Strixbourg</hi> (vulgarly called <hi>Oulenſtadt</hi>) in this equipage. The Skie ſeem'd at firſt to darken in a horrid manner; and after an unheard-of Tempeſt of Thunder and Lightning, the Van couriers appeared in number
+<pb n="2" facs="tcp:104604:3"/>
+about half a ſcore, clad in a duskiſh Soot-coloure ſort of Shamoy; their Shape and Figure was much like thoſe Pictures, which we ſee here up<g ref="char:EOLhyphen"/>on Earth of the Devil. For it is ſuppoſed that he ſat to <hi>Michael Angelo</hi> when he drew the Landskip of Hell; and all thoſe Pictures that go about of him, are but Copies of that Original that hangs in the <hi>Vatican.</hi> Theſe were grim viſaged, Sawcer-ey'd, Broad-ear'd, Cloven-footed, Long-tail'd, Sharp-teeth'd, and all over Hairy. As for their Stature, we can give no certain ſtandart of it, becauſe that as they approached towards the Town, they ſeemed to grow higher and higher; nay, there are thoſe that will depoſe upon oath that ſome of them ſhot up to that prodigious height, that their heads appeared above the higheſt Chim<g ref="char:EOLhyphen"/>nies; none of them but were above the ordina<g ref="char:EOLhyphen"/>ry pitch of a man. It was obſerved, that one of them ſtruck the hat off the firſt man he met, intimating (as 'tis ſuppoſed) that they were all to be uncovered.</p>
+            <p>This dreadful appearance was followed by another no leſs terrible, which was uſhered in by the winding of Hornes, whoſe ſound was ſo doleful and ominous, as would make any ones heart fail: This muſick was made by half a dozen cloſe Mourners, in bulk and ſtature far ex<g ref="char:EOLhyphen"/>ceeding the former; Cloven-footed they alſo were; but the exact ſhape of their body we could not diſcern, becauſe it was hid under their long Cloaks: but ſtill as they went along, they nodded their heads at the people, as it were fore<g ref="char:EOLhyphen"/>boding ſome evil to them.</p>
+            <p>
+               <pb n="3" facs="tcp:104604:3"/>But that which of all was moſt diſmal, a Herald now appears in a party-coloured Coat with the Devils own Effigies pictured in it (and therefore we ſuppoſe he gives no other Arms.) This Herald, as ſoon as he came to the Gates of the Town, with a lowd and hollow voice de<g ref="char:EOLhyphen"/>nounced Wo to the people, which ſtruck no ſmall terrour into them; nevertheleſs, their curioſity overcoming their fears, they were reſolv'd to abide the iſſue of this Pomp, which ſeemed ra<g ref="char:EOLhyphen"/>ther a Funeral then a Triumph.</p>
+            <p>After this, was heard a confounded diſcord of winde-Muſick, which ſeemed to reſult from diſagreeing Flajeolets, Flutes and How boys; theſe were his Guards, a Troop conſiſting of about two hundred, all very well armed and mounted: ſome wore Rapiers, but the major part Scimi<g ref="char:EOLhyphen"/>ters; and therefore it may be very well imagined that they were ſlain Turks which the Devil had raiſed at the Siege of <hi>Candia:</hi> and to confirm the ſuſpition, ſome thought they wore Turbants: but of this we ſuſpend our belief.</p>
+            <p>In the midſt of this Troop rode the Devils Grace himſelf on a milk-white-S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed; he wore a very fair Periwig (as the mode is) and a plume of white Feathers, a fringed Crevat about his neck, his Sword drawn and brandiſht in the Air. Thoſe that obſerved the lines of his Face, ſay, that his preſence was grave and majeſtick, but ſeemed ſomething in years: his ſtature did not much exceed that of ordinary men; his body ſomewhat full and corpulent; one of his Feet was cloven, and tipped with a horny ſubſtance like that of an Oxes hoof, the other was like the
+<pb n="4" facs="tcp:104604:4"/>
+huge Claw of a Bird armed with dreadful long Talons. He had great Sawcer-Eyes, and long Ears and Tail: ſome that had formerly ſeen him, ſay, that his viſage then was nothing ſo horri<g ref="char:EOLhyphen"/>ble as it uſed to be at other times; poſſibly he put on this pleaſing guiſe, to win the people, and take off thoſe frightful apprehenſions which the Pulpits had raiſed of him.</p>
+            <p>The Fields were all covered with the Infan<g ref="char:EOLhyphen"/>try, which by their Manners, Habit, and Dialect ſeem'd Wild <hi>Iriſh;</hi> for they were great drinkers of Uſquebaugh, wore long Trouſes, and their Speech was much in the Throat: beſides, thoſe that converſed with them, ſay, that for ought they can underſtand by them, they were very ſuperſtitious, and eaſie of belief; for they do in a manner acknowledge, that they were Spirited out of their Bogs and Woods, and tranſported hi<g ref="char:EOLhyphen"/>ther with vain hopes of preferment: though ſome of them ſeem to talk odly, as if they had dropt out of the Skie.</p>
+            <p>This was the manner and order of his ap<g ref="char:EOLhyphen"/>proach to the Town; where being arrived, he alighted, and went into an open Chariot that ſtood ready to receive him. He was no ſooner ſeated, but he gave a lowd Hollow through the Air; preſently after which, the Heavens turned as black as pitch, as if his breath had over caſt them: The people run into their Houſes, barred up their Doors and Windows; and there was ſuch a ge<g ref="char:EOLhyphen"/>neral conſternation, that the moſt daring Bully Rocks amongſt them became ſpeechleſs, few or none being ſo preſent to themſelves, as
+<pb n="5" facs="tcp:104604:4"/>
+to think of their Prayes; for they were indeed ſo ſtupified, that they loſt the uſe of their ſenſes. This horror having laſted above two hours, the Heavens began to clear again, the people to re<g ref="char:EOLhyphen"/>cover themſelves and look abroad, where no<g ref="char:EOLhyphen"/>thing appeared but a ſerene Skie; the Devil and all his Fiends vaniſhed, and left no mark or ſigne of their being there.</p>
+            <p>This Relation we had from <hi>Strixbourg</hi> in <hi>Fin<g ref="char:EOLhyphen"/>land,</hi> which truely I gave but light credit to at firſt; but finding it confirmed by every Poſt from thoſe parts, and having diſcourſed with ſeve<g ref="char:EOLhyphen"/>ral that were preſent, who did all agree in every circumſtance of the ſtory: I confeſs my cu<g ref="char:EOLhyphen"/>rioſity was ſeduced ſo far as to conſult a Con<g ref="char:EOLhyphen"/>jurer in this affair; and it was my good fortune to light on one that held very good intelligence with the Devil. He told me that his laſt Ad<g ref="char:EOLhyphen"/>vices from Hell gave him this Character of the perſon that invaded thoſe parts. He pretended great ſobriety and moderation in his outward carriage, but was in his heart a Murderer, Thief, Leacher, and indeed given over to all manner of vice and debauchery; and (which rendred his wickedneſs more dangerous) he was undoubted<g ref="char:EOLhyphen"/>ly a great Scholar, having been adored by the School-men at <hi>Athens,</hi> when Learning moſt flou<g ref="char:EOLhyphen"/>riſhed in <hi>Greece;</hi> and to all thoſe perſons that reſorted to him, he made ſo plauſible a plea to juſtifie all that he did, that he removed all ſcan<g ref="char:EOLhyphen"/>dal from them, and ſent them away fully con<g ref="char:EOLhyphen"/>vinced and ſatisfied in the integrity of his Life
+<pb n="6" facs="tcp:104604:5"/>
+and Manners; ſuch is the power of his wit and diſſimulation! yet he ſeems to be contemplatively given, being for the moſt part in retirement, and not to be ſeen or ſpoken with, but at certain hours which he ſets apart for buſineſs, in which his expedition is admirable; for he is of ſo quick an apprehenſion, that when he ſits in judgement, all matters brought before him, though never ſo perplext, he reduces to a certain point, and diſpatches immediately: for though he appear<g ref="char:EOLhyphen"/>ed in warlike equipage, he is rather a Gown-man then a Souldier; yet of few words, for he never opens his mouth, but when 'tis much to the pur<g ref="char:EOLhyphen"/>poſe: none ever obſerved him laugh or ſmile.</p>
+            <p>Then I asked him whether he might not be An<g ref="char:EOLhyphen"/>tichriſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſaid, No, for there appeared no marks of the Beaſt about him; but gueſſed him rather to be one of the Silenced-Miniſters of darkneſs, who judging by the multitude of Souls hourly tranſported to Hell, that there was a general To<g ref="char:EOLhyphen"/>leration of all things here upon Earth, came hi<g ref="char:EOLhyphen"/>ther for Liberty of Conſcience: but he findes himſelf as much deluded in his expectation, as thoſe <hi>NON-CONFORMISTS</hi> are, who go to Hell for the ſame reaſon, it being indeed out of the Frying-pan into the fire; for in the Swediſh Dominion they allow but one way of Worſhip.</p>
+            <p>That he is a Phanatick no man queſtions, for he ſeldom fails to be preſent, and to exerciſe his gifts at Private Meetings. Having underſtood that there was a Conventicle held in a Barn near
+<pb n="7" facs="tcp:104604:5"/>
+               <hi>Strixbourg,</hi> at ſuch time as he made his ſolemn appearance, he came into the Houſe inviſible, where he found indeed ſome half a ſcore poor wretches, (frighted perhaps with the horrid face of things, and apprehenſion of the day of Judgement's approach) at an Exerciſe: one of them, little imagining him to be preſent, unadviſedly got into a Tub, to hold forth to the reſt. Now whether he looked upon this as an uſurpation of his Office, or whether the Doctrine held forth was repugnant to his Te<g ref="char:EOLhyphen"/>nets, is a doubt worthy of the Brethrens <hi>Q<g ref="char:V">Ʋ</g>ERIES.</hi> Certain it is, that he ſeiſed the poor mortal, and hurried him away in the Air, to the great affrightment of the whole Congregation; who being too well aſſured by the guilt of their Conſciences, that the Delinquent was fallen into the hands of Juſtice, immediately diſſolved the Meet<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Policy is his Religion, and therefore it is be<g ref="char:EOLhyphen"/>lieved he would turn Papiſt, if he might have been choſen Pope; but deſpairing to be pro<g ref="char:EOLhyphen"/>moted by a Chriſtian or Catholick intereſt, and finding that the Queen of <hi>Sweden</hi> (whom he had reaſon to believe was his enemy) had a great influence over the <hi>Squadrone Volante,</hi> where he placed his main hopes; he endea<g ref="char:EOLhyphen"/>voured to breed as much diviſion in the Con<g ref="char:EOLhyphen"/>clave, as might be; and therefore is believed to have put it into the Wench of <hi>Riminie</hi>'s
+<pb n="8" facs="tcp:104604:6"/>
+head, to pretend a Revelation in favour of Car<g ref="char:EOLhyphen"/>dinal <hi>Barbarin:</hi> but though his deſignes took no effect, yet thoſe that rightly underſtand things ſay, it is moſt certain that had the <hi>Squa<g ref="char:EOLhyphen"/>drone Volante</hi> carryed the Election, he had been Pope.</p>
+            <p>But failing here, be ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts up for himſelf, and defies all Religion, Preaches nothing but Li<g ref="char:EOLhyphen"/>berty and Atheiſm, which may be a probable reaſon, that he has a multitude of followers whereſoever he goes.</p>
+            <p>Some thought at firſt that his buſineſs here upon earth was, in the Devils name, to take poſſeſſion of the Dutchy of <hi>Finland,</hi> as an ap<g ref="char:EOLhyphen"/>purtenance of Hell, becauſe it is a damn'd Country, and not fit for any Chriſtian, or in<g ref="char:EOLhyphen"/>deed living ſoul to dwell in: but upon better reflection, they were convinced that that Dut<g ref="char:EOLhyphen"/>chy could not belong to Hell, becauſe the torments of the damn'd there proceed from cold, and not fire; though perhaps the De<g ref="char:EOLhyphen"/>vil may have a juſt Title to ſome Mines of Sulphur and Arſnick lately diſcovered in thoſe parts.</p>
+            <p>I confeſs this diſcourſe of the Conjurer did much amaze me; and therefore to ſet<g ref="char:EOLhyphen"/>tle a right underſtanding in me of theſe things, I deſired him to raiſe this Devil before me; which he courteouſly did, together with the
+<pb n="9" facs="tcp:104604:6"/>
+whole proceſſion of the Cavalcade, which I have cauſed to be cut in braſs, and intend ſhortly to print, and publiſh for the ſatisfa<g ref="char:EOLhyphen"/>ction of the World. Sir, this is all from</p>
+            <closer>
+               <dateline>Stockholm, <date>April 10. 1669/70.</date>
+               </dateline>
+               <signed>Your humble Servant <hi>J. P.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
